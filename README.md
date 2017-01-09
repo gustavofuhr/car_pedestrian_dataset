@@ -5,4 +5,4 @@ video in a urban area, with pedestrian annotated and provided calibration matrix
 
 A sample frame:
 
-![alt tag](https://raw.githubusercontent.com/gustavofuhr/car_pedestrian_dataset/master/demo_car_pedestrian_dataset.png)
+![alt tag](https://raw.githubusercontent.com/gustavofuhr/car_pedestrian_dataset/master/demo.png)
